@@ -1,0 +1,27 @@
+# Compiled python modules.
+*.pyc
+*.h5
+*.csv
+data/
+
+# Setuptools distribution folder.
+/dist/
+/build/
+
+# Python egg metadata, regenerated from source files by setuptools.
+/*.egg-info
+/*.egg
+
+# ipython notebooks checkpoints
+*.ipynb_checkpoints/
+
+# python generated image files
+*.png
+
+# python generated log files
+*.log*
+
+# python generated pickle files
+*.pickle*
+*.p
+
