@@ -1,0 +1,7 @@
+numpy
+scipy
+seaborn
+matplotlib
+pandas
+enum34
+
